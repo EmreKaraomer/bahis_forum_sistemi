@@ -13,3 +13,5 @@ Bu proje, kullanıcıların spor bahis analizlerini paylaşabildiği PHP tabanl�
 - 🖼️ Spor temalı modern arka plan
 - 🛠️ XAMPP ile uyumlu çalışır
 
+Youtube:https://www.youtube.com/watch?v=5yDaZw7i640
+Github:https://github.com/EmreKaraomer/bahis_forum_sistemi/edit/main/bahis_forum/
